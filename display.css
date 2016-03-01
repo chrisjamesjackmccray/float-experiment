@@ -1,0 +1,25 @@
+* {
+  vertical-align: top;
+
+}
+
+.container {
+  width: 50%;
+}
+
+.experiment {
+  height: 100px;
+  background-color: #888;
+}
+span {
+  background-color: goldenrod;
+  margin: 10px 0;
+  display: block;
+
+}
+
+p {
+  width: 200px;
+  display: inline-block;
+  vertical-align: top;
+}
